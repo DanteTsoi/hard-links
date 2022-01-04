@@ -49,7 +49,7 @@ hln link-plus [config]
       "excludes": [
         "[path-to-you-root]/download/seed",
         "[path-to-you-root]/download/_temp",
-        "[path-to-you-root]/download/_stash",
+        "[path-to-you-root]/download/_stash"
       ],
       "fullCheck": false
     }
